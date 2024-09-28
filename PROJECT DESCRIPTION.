@@ -1,0 +1,36 @@
+Healthcare Dashboard development project.
+
+Project definition and about.
+
+The data is publicly available at https://www.pivotalstats.com/resources
+
+The data include three major types of patients: the outpatient or day case and the inpatient personnel from 2018-2021.
+
+Process.
+1.	Data understanding and overview
+
+•	Identification of the stakeholders
+
+•	Understanding the business objectives –meetings and communication
+
+•	Defining the scope.
+
+•	Document, KPI, Timelines
+
+2.	Gathering of data
+3.	Data collection
+4.	Transformation of data & Modelling
+5.	Visualization Blueprint
+6.	Layout and design 
+7.	Interactivity and navigation 
+8.	The data will be published on GitHub for open source.
+Project goals
+1.	Track the current status of the patient's waiting list
+2.	Analyse the historical monthly trend of the waiting lists in inpatient & outpatient categories.
+3.	Detailed specialty level & age profile analysis.
+Metrics Required
+1.	Average & Median Waiting list.
+2.	Current Total Wait List.
+Views Required
+1.	Summary page
+2.	Detailed page for Granular Analysis.
